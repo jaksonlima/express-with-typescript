@@ -14,12 +14,12 @@
 
 ## Commands
 
-#### -package manager yarn
+#### - package manager yarn
 ```
  yarn install -> only once to install packages
 ```
 
-#### -package manager npm
+#### - package manager npm
 ```
  npm install -> only once to install packages
 ```
