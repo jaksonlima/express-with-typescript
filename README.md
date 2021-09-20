@@ -14,15 +14,28 @@
 
 ## Commands
 
+#### -package manager yarn
 ```
- yarn dev 
+ yarn install -> only once to install packages
+```
+
+#### -package manager npm
+```
+ npm install -> only once to install packages
+```
+
+```
+ yarn dev
+
  npm run dev 
 ```
 ```
  yarn start 
+ 
  npm run start 
 ```
 ```
  yarn build 
+ 
  npm run build 
 ```
